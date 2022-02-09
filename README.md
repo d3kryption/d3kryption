@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @d3kryption
+- 👀 I’m interested in game development, web design and cool tech.
+- 🌱 I’m currently learning React, Unreal 5 and Vue (for work)
+- 💞️ I’m looking to collaborate on nothing so far! :D
+- 📫 How to reach me Twitter @d3kryption
